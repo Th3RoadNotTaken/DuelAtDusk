@@ -94,3 +94,6 @@ Win Condition: The game ends when one player's health reaches zero. The dynamic 
 
 ## Development Insights
 - Developing Duel at Dusk involved optimizing for low-level assembly constraints, and managing memory and processing cycles carefully to maintain visual performance while implementing complex features like physics and collision detection.
+
+## Gameplay Video
+[![Gameplay Video](![Player2_Win](https://github.com/user-attachments/assets/1113c516-8c92-4548-8ad6-4cb858e74569))](https://youtu.be/5CJkZYdX34w)
